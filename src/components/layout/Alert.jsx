@@ -10,7 +10,6 @@ import AlertContext from "../../context/alert/AlertContext";
 
 function Alert() {
   const { alert } = useContext(AlertContext);
-  
 
   return (
     <div
